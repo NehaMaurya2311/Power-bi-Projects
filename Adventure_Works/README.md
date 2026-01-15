@@ -6,6 +6,12 @@ Developed an end-to-end **Power BI business intelligence dashboard** to analyze 
 
 ---
 
+[![Dashboard Preview](./Preview1.jpeg)](./Ad_w_report.pdf)
+
+👉 **[View Full Power BI Report (PDF)](./Ad_w_report.pdf)**
+
+
+---
 ## 🎯 Project Objectives
 
 * Analyze sales, revenue, profit, and return rates across product categories
