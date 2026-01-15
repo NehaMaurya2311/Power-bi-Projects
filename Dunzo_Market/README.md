@@ -6,9 +6,7 @@ Developed an interactive **Power BI retail analytics dashboard** to analyze Dunz
 
 ---
 
-[![Dashboard Preview](./Preview1.jpeg)](./Dnzo_Market_report.pdf)
-
-👉 **[View Full Power BI Report (PDF)](./Dnzo_Market_report.pdf)**
+[![Dashboard Preview](./Preview2.jpeg)](./Dnzo_Market_report.pdf)
 
 ---
 
