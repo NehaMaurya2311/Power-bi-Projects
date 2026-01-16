@@ -102,9 +102,3 @@ Developed an end-to-end **Power BI business intelligence dashboard** to analyze 
 **Neha Maurya**
 
 
----
-
-
-
-
-Just tell me 💼✨
